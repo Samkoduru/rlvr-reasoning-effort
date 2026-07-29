@@ -1,0 +1,7 @@
+# Local dev / demo scripts (Modal image installs the training stack separately)
+boto3            # secrets.py — AWS Secrets Manager
+requests
+openai           # NVIDIA build.nvidia.com is OpenAI-compatible (Nemotron demos)
+pandas
+matplotlib
+python-dotenv

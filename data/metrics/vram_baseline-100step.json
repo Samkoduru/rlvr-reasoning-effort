@@ -1,0 +1,8 @@
+{
+  "run": "baseline-100step",
+  "max_allocated_gb": 14.734,
+  "max_reserved_gb": 20.917,
+  "gpu": "NVIDIA L4",
+  "model": "unsloth/Qwen2.5-1.5B-Instruct",
+  "max_steps": 100
+}

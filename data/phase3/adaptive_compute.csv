@@ -1,0 +1,11 @@
+problem_id,steps,model,expected,predicted,correct,reasoning_chars,completion_tokens,total_tokens,latency_s
+L1a,1,nvidia/llama-3.3-nemotron-super-49b-v1,15,15,1,1525,504,537,29.224
+L1b,1,nvidia/llama-3.3-nemotron-super-49b-v1,54,54,1,1094,362,395,10.578
+L2a,2,nvidia/llama-3.3-nemotron-super-49b-v1,60,60,1,536,167,204,7.543
+L2b,2,nvidia/llama-3.3-nemotron-super-49b-v1,50,50,1,652,226,262,31.208
+L3a,3,nvidia/llama-3.3-nemotron-super-49b-v1,45,45,1,963,292,342,10.984
+L3b,3,nvidia/llama-3.3-nemotron-super-49b-v1,65,65,1,793,237,276,11.186
+L4a,4,nvidia/llama-3.3-nemotron-super-49b-v1,70,70,1,1529,411,475,85.074
+L4b,4,nvidia/llama-3.3-nemotron-super-49b-v1,4,4,1,923,302,362,16.433
+L5a,5,nvidia/llama-3.3-nemotron-super-49b-v1,116,116,1,5382,1592,1652,83.918
+L5b,5,nvidia/llama-3.3-nemotron-super-49b-v1,330,330,1,1301,389,450,142.707
